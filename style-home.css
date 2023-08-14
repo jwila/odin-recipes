@@ -1,0 +1,31 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 0 10px;
+    font-size: 18px;
+    color:#6b4914;
+    background-color: rgb(255, 179, 92);
+    
+}
+a{
+    color:rgb(161, 124, 52);
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px
+}
+li{
+    margin:10px 0
+}
+ul{
+    font-weight: bold;
+}
+ul,ol,p{
+    background-color: antiquewhite;
+    padding: 10px 50px;
+    border: 10px solid #eea024;
+    border-radius: 25px;
+}
+h1,h2,h3{
+    line-height: 1.2;
+}
